@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Kubernetes, Blockchain Technology 
+- 🌱 I’m currently learning Blockchain Technology 
 
 
 
