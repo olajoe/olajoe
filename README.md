@@ -3,9 +3,11 @@ I'm Software Developer 💻
 
 - 🌱 I’m currently learning Blockchain Technology 
 
-<!-- ![olajoe GitHub stats](https://github-readme-stats.vercel.app/api?username=olajoe&show_icons=true&theme=dracula)
+# Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olajoe&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
+![olajoe GitHub stats](https://github-readme-stats.vercel.app/api?username=olajoe&show_icons=true&theme=dracula)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olajoe&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
