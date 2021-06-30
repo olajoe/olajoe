@@ -1,7 +1,7 @@
 # Hi there I'm Joe 👋
 I'm Software Developer 💻
 
-- 🌱 I’m currently learning Blockchain Technology 
+<!-- - 🌱 I’m currently learning Blockchain Technology  -->
 
 # Stats
 
