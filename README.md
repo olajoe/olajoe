@@ -1,11 +1,8 @@
 # Hi there I'm Joe 👋
 I'm Software Developer 💻
 
-<!-- - 🌱 I’m currently learning Blockchain Technology  -->
 
 # Stats
-
-![olajoe GitHub stats](https://github-readme-stats.vercel.app/api?username=olajoe&show_icons=true&theme=dracula)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olajoe&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
